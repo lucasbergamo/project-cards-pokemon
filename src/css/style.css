@@ -76,15 +76,15 @@ body {
 }
 
 .fundo1 {
-    background: url(/src/imagens/fundo-card-1.jpg) no-repeat;
+    background: url(../imagens/fundo-card-1.jpg) no-repeat;
 }
 
 .fundo2 {
-    background: url(/src/imagens/fundo-card-2.jpg) no-repeat;
+    background: url(../imagens/fundo-card-2.jpg) no-repeat;
 }
 
 .fundo3 {
-    background: url(/src/imagens/fundo-card-3.jpg) no-repeat;
+    background: url(../imagens/fundo-card-3.jpg) no-repeat;
 }
 
 .cartao .informacoes {
